@@ -1,0 +1,18 @@
+./jeu/Controleur.java
+
+./jeu/ihm/menu/FrameMenu.java
+./jeu/ihm/menu/PanelMenu.java
+
+./jeu/ihm/PFC/FramePFC.java
+./jeu/ihm/PFC/PanelPFC.java
+
+./jeu/ihm/memory/FrameMemory.java
+./jeu/ihm/memory/PanelMemory.java
+
+./jeu/ihm/parametre/FrameParametre.java
+./jeu/ihm/parametre/PanelParametre.java
+
+./jeu/metier/PFC/PFC.java
+./jeu/metier/memory/Memory.java
+
+-d class
